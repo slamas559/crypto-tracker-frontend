@@ -7,7 +7,7 @@ import PrivateRoute from "./components/PrivateRoute";
 import Dashboard from "./pages/Dashboard";
 import Portfolio from "./pages/Portfolio";
 import AlertPage from "./pages/AlertPage";
-import Watchlist from "./pages/WatchList";
+import Watchlist from "./pages/Watchlist";
 import instance from "./services/axios";
 import { subscribeUserToPush } from "./utils/pushNotification";
 
